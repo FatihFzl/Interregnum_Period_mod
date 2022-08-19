@@ -1,0 +1,44 @@
+k_ottoman = {
+
+    1301.1.1 = {
+        holder = osman_gazi
+    }
+    1324.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+    }
+}
+
+
+e_timurids = {
+    1370.1.1 = {
+        holder = timur
+    }
+}
+
+k_akkoyunlu = {
+    1378.1.1 = {
+        holder = kara_osman
+    }
+    
+}
+
+k_karakoyunlu = {
+    1380.1.1 = {
+        holder = kara_muhammed
+    }
+    1389.1.1 = {
+        holder = kara_yusuf
+    }
+}
