@@ -1,0 +1,20 @@
+ottoman = {
+    name = "dynn_Ottoman"
+    culture = "anatolian_turks"
+    motto = dynn_Ottoman_motto
+}
+
+timurid = {
+    name = "dynn_Timurid"
+    culture = "ozbek"
+}
+
+karakoyunlu = {
+    name = "dynn_Karakoyunlu"
+    culture = "turkmen"
+}
+
+akkoyunlu = {
+    name = "dynn_Akkoyunlu"
+    culture = "turkmen"
+}

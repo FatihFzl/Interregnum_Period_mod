@@ -1,0 +1,20 @@
+house_ottoman = {
+    name =  dynn_Ottoman
+    dynasty = dynasty_ottoman
+}
+
+house_timurid = {
+    name = dynn_Timurid
+    dynasty = dynasty_timurid
+}
+
+house_karakoyunlu = {
+     name = dynn_Karakoyunlu
+     dynasty = dynasty_karakoyunlu
+}
+
+house_akkoyunlu = {
+     name = dynn_Akkoyunlu
+     dynasty = dynasty_akkoyunlu
+}
+

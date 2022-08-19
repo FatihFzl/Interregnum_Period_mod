@@ -1,0 +1,4 @@
+bm_battle_of_ankara = {
+    start_date = 1402.7.28
+    recommended = yes
+}
