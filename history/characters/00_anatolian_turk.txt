@@ -44,7 +44,7 @@ osman_gazi = {
 	trait = organizer
 	trait = unyielding_defender
 	father = ertugrul
-     spouse = bala
+     add_spouse = bala
 	culture = "anatolian_turks"
 	religion = "islam_religion"
 
@@ -58,6 +58,7 @@ osman_gazi = {
 
 bala = {
     name = "Bala"
+	female = yes
     dynasty = 1000101748
     culture = "anatolian_turks"
 	religion = "islam_religion"
@@ -90,7 +91,7 @@ orhan_gazi = {
 	trait = military_engineer
 	father = osman_gazi
     mother = bala
-     spouse = nilufer
+    add_spouse = nilufer
 	culture = "anatolian_turks"
 	religion = "islam_religion"
 
@@ -103,7 +104,8 @@ orhan_gazi = {
 }
 
 nilufer = {
-    name = "Nilu_fer"
+    name = "NilU_fer"
+	female = yes
      dynasty = ottoman
     culture = "anatolian_turks"
 	religion = "islam_religion"
@@ -136,7 +138,7 @@ murad_first = {
     trait = open_terrain_expert
 	father = orhan_gazi
     mother = nilufer
-     spouse = gulcicek
+     add_spouse = gulcicek
 	culture = "anatolian_turks"
 	religion = "islam_religion"
 
@@ -150,7 +152,8 @@ murad_first = {
 
 
 gulcicek = {
-    name = "Gu_lc_ic_ek"
+    name = "GU_lC_iC_ek"
+	female = yes
      dynasty = ottoman
     culture = "anatolian_turks"
 	religion = "islam_religion"
@@ -158,7 +161,7 @@ gulcicek = {
     1332.1.1 = {
 		birth = yes
 	}
-	1335.1.1 = {
+	1435.1.1 = {
 		death = yes
 	}
 }
@@ -183,7 +186,7 @@ bayezid = {
     trait = open_terrain_expert
 	father = murad_first
     mother = gulcicek
-     spouse = devlet
+     add_spouse = devlet
 	culture = "anatolian_turks"
 	religion = "islam_religion"
 
@@ -197,6 +200,7 @@ bayezid = {
 
 devlet = {
     name = "Devlet"
+	female = yes
      dynasty = ottoman
     culture = "anatolian_turks"
 	religion = "islam_religion"
@@ -230,7 +234,7 @@ mehmed_first = {
     trait = poet
 	father = bayezid
     mother = devlet 
-    spouse = emine
+    add_spouse = emine
 	culture = "anatolian_turks"
 	religion = "islam_religion"
 
@@ -247,6 +251,7 @@ emine = {
     dynasty = ottoman
     culture = "anatolian_turks"
 	religion = "islam_religion"
+	female = yes
 
     1388.1.1 = {
 		birth = yes
@@ -257,7 +262,7 @@ emine = {
 }
 
 isa_celebi = {
-    name = "I_sa"
+    name = "Isa"
     dynasty = ottoman # Osmanlı
 	martial = 10
 	prowess = 14

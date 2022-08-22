@@ -1,0 +1,28 @@
+timur = {
+     name = "Timur"
+    dynasty = timurid 
+	martial = 18
+	prowess = 18
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 12
+	learning = 13
+	trait = diligent
+	trait = brave
+	trait = wrathful
+	trait = education_martial_4
+	trait = organizer
+	trait = unyielding_defender
+    trait = aggressive_attacker
+    trait = military_engineer
+    trait = logistician
+	culture = "karluk"
+	religion = "maturidi"
+
+    1336.1.1 = {
+		birth = yes
+	}
+	1405.1.1 = {
+		death = yes
+	}
+}

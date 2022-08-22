@@ -1,0 +1,104 @@
+kara_muhammed = {
+ name = "Kara Muhammed"
+    dynasty = karakoyunlu # Oghuz
+	martial = 15
+	prowess = 15
+	diplomacy = 11
+	intrigue = 8
+	stewardship = 10
+	learning = 10
+	trait = calm
+	trait = brave
+	trait = zealous
+	trait = education_martial_3
+	trait = organizer
+	trait = unyielding_defender
+	culture = "turkish"
+	religion = "islam_religion"
+
+    1350.1.1 = {
+		birth = yes
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
+
+kara_yusuf = {
+name = "Kara Yusuf"
+    dynasty = karakoyunlu # Oghuz
+	martial = 11
+	prowess = 15
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 10
+	learning = 10
+	trait = calm
+	trait = brave
+	trait = zealous
+	trait = education_martial_3
+	trait = organizer
+	trait = unyielding_defender
+	culture = "turkish"
+	religion = "islam_religion"
+
+    1357.1.1 = {
+		birth = yes
+	}
+	1420.1.1 = {
+		death = yes
+	}
+}
+
+
+kutlu = {
+	name = "Kutlu"
+	dynasty = akkoyunlu
+	martial = 13
+	prowess = 15
+	diplomacy = 11
+	intrigue = 9
+	stewardship = 10
+	learning = 11
+	trait = calm
+	trait = brave
+	trait = aggressive_attacker
+	culture = "turkish"
+	religion = "ismaili"
+
+
+    1330.1.1 = {
+		birth = yes
+	}
+
+	1388.1.1 = {
+		death = yes
+	}
+}
+
+kara_osman = {
+	name = "Kara Osman"
+	dynasty = akkoyunlu
+	martial = 13
+	prowess = 15
+	diplomacy = 11
+	intrigue = 9
+	stewardship = 10
+	learning = 11
+	father = kutlu
+	trait = trusting
+	trait = ambitious
+	trait = brave
+	trait = aggressive_attacker
+	culture = "turkish"
+	religion = "ismaili"
+
+
+    1379.1.1 = {
+		birth = yes
+	}
+
+	1435.1.1 = {
+		death = yes
+	}
+}
