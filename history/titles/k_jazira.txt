@@ -1303,6 +1303,9 @@ c_tall_basma = {
 	1320.1.1 = {
 		holder = 93424
 	}
+	1399.1.1 = {
+        holder = kara_osman
+    }
 }
 
 
@@ -1416,7 +1419,9 @@ c_hakkari = {
 		holder = 478030
 	}
 	
-
+ 1399.1.1 = {
+        holder = kara_osman
+    }
 }
 
 
@@ -1497,6 +1502,9 @@ c_mayyafariqin = {
 	1320.1.1 = {
 		holder = 93424
 	}
+	1399.1.1 = {
+        holder = kara_osman
+    }
 }
 
 
@@ -1579,6 +1587,9 @@ c_bakriya = {
 	1320.1.1 = {
 		holder = 93424
 	}
+	1399.1.1 = {
+        holder = kara_osman
+    }
 }
 
 
@@ -1645,6 +1656,9 @@ c_amida = {
 	1320.1.1 = {
 		holder = 93424
 	}
+	1399.1.1 = {
+        holder = kara_osman
+    }
 }
 
 d_euphrates = {
@@ -2009,6 +2023,10 @@ c_kurdistan = {
 	1336.7.24 = {
 		holder = 478030
 	}
+	1399.1.1 = {
+        holder = kara_osman
+    }
+	
 
 }
 
@@ -2128,6 +2146,9 @@ c_irbil = {
 	1330.1.1 = {
 		holder = 478040
 	}
+	1399.1.1 = {
+        holder = kara_osman
+    }
 
 }
 
@@ -2246,6 +2267,8 @@ c_shahrazur = {
 	1330.1.1 = {
 		holder = 478040
 	}
-
+1399.1.1 = {
+        holder = kara_osman
+    }
 }
 

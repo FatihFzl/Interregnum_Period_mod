@@ -17,6 +17,7 @@ k_ottoman = {
 
     1413.1.1 = {
         holder = mehmed_first
+
     }
 }
 
@@ -28,7 +29,14 @@ e_timurids = {
 }
 
 k_akkoyunlu = {
+    
     1378.1.1 = {
+        holder = kutlu
+    }
+    1380.1.1 = {
+        liege = e_timurids
+    }
+    1399.1.1 = {
         holder = kara_osman
     }
     
@@ -39,6 +47,7 @@ k_karakoyunlu = {
         holder = kara_muhammed
     }
     1389.1.1 = {
+        liege = e_timurids
         holder = kara_yusuf
     }
 }

@@ -86,6 +86,9 @@ k_kabulistan = {
 	1216.2.15 = {
 		holder = 0
 	}
+	 1380.1.1 = {
+        holder = timur
+    }
 }
 
 

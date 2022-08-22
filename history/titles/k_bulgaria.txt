@@ -659,6 +659,19 @@ d_turnovo = {
 		holder = 467500 #Ivan Aleksandr
 	}
 
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
+
 }
 
 
@@ -1673,6 +1686,20 @@ d_dobrudja = {
 	1322.8.1 = {
 		holder = 467521 #Ivan Stefan
 	}
+
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 }
 
 
@@ -1943,6 +1970,18 @@ d_bulgaria = {
 	1335.1.1 = {
 		holder = 31443 #Nikephoros Orsini
 	}
+	 1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 }
 
 
@@ -2739,6 +2778,18 @@ d_philippopolis = {
 		holder = 467500 #Ivan Aleksandr
 	}
 
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 }
 
 

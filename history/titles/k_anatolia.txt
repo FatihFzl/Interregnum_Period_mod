@@ -69,7 +69,7 @@ d_cilicia = {
 		liege = "e_byzantium"
 	}
 	1140.2.14 = {
-		holder = 223010 #Stepané I Rubenid
+		holder = 223010 #Stepanï¿½ I Rubenid
 	}
 	1145.1.1 = {
 		holder = 223014 #Thoros II Rubenid
@@ -225,6 +225,7 @@ c_cilicia = {
 	1320.7.20 = {
 		holder = 461800 #Levon IV
 	}	
+	
 }
 
 
@@ -446,6 +447,18 @@ c_lycandus = {
 		liege = "k_eretnid"
 		holder = 71864
 	}
+	 1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 }
 
 
@@ -523,7 +536,7 @@ c_tall_hamid = {
 		holder=223012 #Levon I Rubenid
 	}
 	1140.2.14= {
-		holder=223010 #Stepané I Rubenid
+		holder=223010 #Stepanï¿½ I Rubenid
 	}
 	1145.1.1= {
 		holder=223014 #Thoros II Rubenid
@@ -757,6 +770,24 @@ c_lycia = {
 	1319.1.1 = {
 		holder = 34155
 	}
+	
+	
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 }
 
 
@@ -855,6 +886,24 @@ c_caria = {
 	1319.1.1 = {
 		holder = 34155
 	}
+
+	
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 }
 
 
@@ -931,6 +980,25 @@ c_pamphylia = {
 	1327.1.1 = {
 		holder = 476400
 	}
+
+	
+	
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 	
 
 }
@@ -1057,6 +1125,25 @@ c_lycaonia = {
 		holder = 476300
 	}
 
+	
+	
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
+
 }
 
 
@@ -1146,6 +1233,25 @@ c_pacatiana = {
 	1327.1.1={
 		holder=71868
 	}
+
+	
+	
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 
 }
 
@@ -1238,6 +1344,23 @@ c_pisidia = {
 		holder=476300
 	}
 
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
+
 }
 
 
@@ -1328,6 +1451,23 @@ c_selge = {
 	1316.1.1={
 		holder=476300
 	}
+
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 
 }
 
@@ -1420,6 +1560,23 @@ c_galatia_salutaris = {
 		holder=476300
 	}
 
+    1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
+
 }
 
 
@@ -1510,6 +1667,23 @@ c_philomelium = {
 	1316.1.1 = {
 		holder = 476300
 	}
+
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 
 }
 
@@ -1602,6 +1776,23 @@ c_isauria = {
 		holder = 476300
 	}
 
+	1332.1.1 = {
+        holder = orhan_gazi
+    }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
+
 }
 
 
@@ -1637,6 +1828,20 @@ d_cappadocia = {
 	1077.1.1 = {
 		holder = 0
 	}
+
+	
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 }
 
 
@@ -1738,6 +1943,23 @@ c_cappadocia = {
 		holder = 71864
 	}
 
+#	1332.1.1 = {
+ |#       holder = orhan_gazi
+  #  }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
+
 }
 
 
@@ -1838,6 +2060,23 @@ c_lower_galatia = {
 		liege="d_charsianon"
 		holder=71864
 	}
+
+#  1332.1.1 = {
+#        holder = orhan_gazi
+#   }
+
+    1362.1.1 = {
+        holder = murad_first
+    }
+
+    1389.1.1 = {
+        holder = bayezid
+    }
+
+    1413.1.1 = {
+        holder = mehmed_first
+
+    }
 
 }
 

@@ -1,6 +1,10 @@
 k_daylam = {
 	867.1.1 = {	change_development_level = 5 }
 	1066.1.1 = { change_development_level = 8 }
+
+    1380.1.1 = {
+        holder = timur
+    }
 }
 
 c_gilan = {
@@ -105,6 +109,7 @@ c_gilan = {
 	1334.1.1 = {
 		holder = 93303
 	}
+	
 }
 
 
@@ -904,6 +909,13 @@ d_azerbaijan = {
 	1328.1.1 = {
 		holder = 478033
 	}
+
+	1380.1.1 = {
+		holder = kara_muhammed
+	}
+	1389.1.1 = {
+		holder = kara_yusuf
+	}
 }
 
 
@@ -1574,6 +1586,13 @@ d_shirvan = {
 	1124.1.1 = {
 		holder = 0
 		#Shirvan conquered by Georgia
+	}
+
+	1380.1.1 = {
+		holder = kara_muhammed
+	}
+	1389.1.1 = {
+		holder = kara_yusuf
 	}
 }
 
